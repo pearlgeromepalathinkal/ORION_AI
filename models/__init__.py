@@ -1,3 +1,0 @@
-"""
-ORION-AI Models Package.
-"""

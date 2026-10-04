@@ -1,7 +1,0 @@
-Title: Developer Tools and Software Installation Policy
-Source: GitHub
-Domain: Software
-Content:
-Standard developer software like VS Code, Docker, and Node.js can be installed via Self-Service Portal without admin elevation.
-If installation fails with 'Permission Denied', verify that local admin rights request is submitted via Jira IT ticket.
-Automated installation scripts for role assignment require senior admin approvals.
