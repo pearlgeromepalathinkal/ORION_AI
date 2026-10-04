@@ -1,0 +1,11 @@
+Title: VPN MTU Path Discovery Packet Fragmentation
+Source: Confluence
+Domain: Network
+Freshness: 0.86
+Authority: 0.89
+Reliability: 0.87
+Content:
+If web pages fail to load completely over VPN:
+1. Lower interface MTU to 1400: netsh interface ipv4 set subinterface 'Wi-Fi' mtu=1400 store=persistent.
+2. Test ICMP ping with df flag: ping 8.8.8.8 -f -l 1372.
+3. Save MTU setting and reconnect VPN.

@@ -1,0 +1,11 @@
+Title: RADIUS Authentication Server Failover
+Source: Confluence
+Domain: Network
+Freshness: 0.94
+Authority: 0.96
+Reliability: 0.93
+Content:
+If primary RADIUS server stops responding:
+1. Network Access Control automatically fails over to Secondary RADIUS Server.
+2. Authentication requests may take up to 5 extra seconds during failover.
+3. On-call engineer receives PagerDuty alert immediately.

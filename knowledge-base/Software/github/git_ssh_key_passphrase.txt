@@ -1,0 +1,11 @@
+Title: Git SSH Key Agent Passphrase Persistence
+Source: Github
+Domain: Software
+Freshness: 0.88
+Authority: 0.9
+Reliability: 0.87
+Content:
+To avoid entering SSH key passphrase on every git push:
+1. Start ssh-agent: eval "$(ssh-agent -s)".
+2. Add key to agent: ssh-add --apple-use-keychain ~/.ssh/id_ed25519.
+3. Add Host * UseKeychain yes config to ~/.ssh/config.

@@ -1,0 +1,11 @@
+Title: Cybersecurity Incident Response Escalation
+Source: Sharepoint
+Domain: Security
+Freshness: 0.96
+Authority: 0.99
+Reliability: 0.95
+Content:
+Critical incident severity levels:
+1. Sev-1 (Data Breach / Ransomware): Page Incident Commander immediately.
+2. Isolate affected subnets at core switch.
+3. Preserved volatile RAM state before powering off systems.

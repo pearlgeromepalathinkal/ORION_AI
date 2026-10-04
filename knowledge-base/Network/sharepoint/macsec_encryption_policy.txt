@@ -1,0 +1,11 @@
+Title: MACsec Layer 2 Encryption Policy
+Source: Sharepoint
+Domain: Network
+Freshness: 0.93
+Authority: 0.96
+Reliability: 0.92
+Content:
+Layer 2 encryption requirements:
+1. Inter-switch trunk links between buildings must use MACsec 256-bit encryption.
+2. Pre-shared keys rotated semi-annually.
+3. Fallback to unencrypted link is disabled.

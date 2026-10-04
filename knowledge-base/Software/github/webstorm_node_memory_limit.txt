@@ -1,0 +1,10 @@
+Title: Node.js Reached Heap Limit Fix
+Source: Github
+Domain: Software
+Freshness: 0.85
+Authority: 0.87
+Reliability: 0.84
+Content:
+If build script fails with FATAL ERROR: Reached heap limit Allocation failed:
+1. Set Node memory environment variable: export NODE_OPTIONS="--max-old-space-size=4096".
+2. Re-run npm run build.

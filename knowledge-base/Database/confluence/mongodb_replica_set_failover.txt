@@ -1,0 +1,11 @@
+Title: MongoDB Replica Set Election Failover
+Source: Confluence
+Domain: Database
+Freshness: 0.94
+Authority: 0.97
+Reliability: 0.93
+Content:
+Handling MongoDB primary node failover:
+1. Secondary node automatically elected primary within 10 seconds.
+2. Ensure connection string specifies replicaSet parameter: mongodb://node1,node2/?replicaSet=rs0.
+3. Verify write concern is set to w:majority.

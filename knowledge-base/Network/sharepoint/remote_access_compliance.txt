@@ -1,0 +1,11 @@
+Title: Remote Work Network Compliance Policy
+Source: Sharepoint
+Domain: Network
+Freshness: 0.91
+Authority: 0.94
+Reliability: 0.9
+Content:
+Compliance policy for remote connections:
+1. Devices must have active antivirus and firewall turned ON.
+2. Split-tunneling modification tools are detected and flagged.
+3. Connections from high-risk embargoed countries are automatically blocked.

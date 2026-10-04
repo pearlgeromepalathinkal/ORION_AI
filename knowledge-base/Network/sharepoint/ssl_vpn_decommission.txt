@@ -1,0 +1,11 @@
+Title: Legacy SSL VPN Client Retirement Notice
+Source: Sharepoint
+Domain: Network
+Freshness: 0.91
+Authority: 0.93
+Reliability: 0.9
+Content:
+Retirement schedule for legacy VPN:
+1. Legacy Cisco AnyConnect client deprecated on Dec 31.
+2. All users must migrate to GlobalProtect client.
+3. Legacy VPN portals disabled permanently.

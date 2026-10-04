@@ -1,0 +1,11 @@
+Title: WAN Acceleration and Optimization Settings
+Source: Sharepoint
+Domain: Network
+Freshness: 0.84
+Authority: 0.88
+Reliability: 0.86
+Content:
+WAN optimization guidelines:
+1. CIFS/SMB file traffic optimized via Riverbed SteelHead appliances.
+2. Encrypted HTTPS traffic bypassed from optimization.
+3. Appliance health checked daily by Network Team.

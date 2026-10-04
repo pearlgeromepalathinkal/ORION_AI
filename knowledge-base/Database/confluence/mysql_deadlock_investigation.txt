@@ -1,0 +1,11 @@
+Title: MySQL InnoDB Deadlock Analysis
+Source: Confluence
+Domain: Database
+Freshness: 0.91
+Authority: 0.94
+Reliability: 0.89
+Content:
+Diagnosing MySQL deadlocks:
+1. Run query: SHOW ENGINE INNODB STATUS.
+2. Review LATEST DETECTED DEADLOCK transaction section.
+3. Ensure application updates tables in consistent primary key order.

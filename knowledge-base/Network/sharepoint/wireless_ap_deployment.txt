@@ -1,0 +1,11 @@
+Title: Wireless Access Point Installation Standard
+Source: Sharepoint
+Domain: Network
+Freshness: 0.87
+Authority: 0.9
+Reliability: 0.88
+Content:
+AP deployment specifications:
+1. Minimum signal strength threshold: -65 dBm across all office areas.
+2. Channel width set to 20MHz on 2.4GHz and 40MHz on 5GHz.
+3. Rogue AP containment enabled globally.

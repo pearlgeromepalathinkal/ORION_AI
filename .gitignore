@@ -1,0 +1,47 @@
+# Environments
+myenv/
+.env
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Generated project files
+graph.png
+*.log
+
+# Dev/test artifacts (archived in /unwanted)
+unwanted/
+
+# Pytest
+.pytest_cache/
+
+# Next.js build
+dashboard/.next/
+dashboard/node_modules/
+dashboard/tsconfig.tsbuildinfo
+
+# Secret env files (use .env.example / .env.local.example instead)
+dashboard/.env.local
+
+# Local environments, credentials, and editor state
+.venv/
+.env.*
+!.env.example
+!.env.*.example
+.kilo/
+
+# Runtime databases and generated vector indexes
+/data/*.db
+/data/*.db-*
+/data/*.sqlite*
+/knowledge-base/qdrant_storage/
+node_modules/

@@ -1,0 +1,11 @@
+Title: F5 Load Balancer Health Check Failure
+Source: Confluence
+Domain: Network
+Freshness: 0.92
+Authority: 0.94
+Reliability: 0.9
+Content:
+If web application pool member is marked DOWN by F5:
+1. Check backend server HTTP status on port 8080.
+2. Verify health monitor URI endpoint /health returns HTTP 200 OK.
+3. Re-enable node in F5 LTM console once service recovers.

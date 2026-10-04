@@ -1,0 +1,12 @@
+Title: Laptop CPU Thermal Throttling Fix
+Source: Sharepoint
+Domain: Hardware
+Freshness: 0.88
+Authority: 0.91
+Reliability: 0.86
+Content:
+If corporate laptop fan is loud and performance drops:
+1. Check CPU usage in Task Manager / Activity Monitor for runaway processes.
+2. Clear dust from cooling vents.
+3. Ensure laptop is used on hard flat surface, not soft bedding.
+4. Run Dell / Apple Hardware Diagnostics.

@@ -1,0 +1,11 @@
+Title: Guest Wi-Fi Acceptable Use Policy
+Source: Sharepoint
+Domain: Network
+Freshness: 0.85
+Authority: 0.9
+Reliability: 0.88
+Content:
+Guest Wi-Fi usage rules:
+1. Guest Wi-Fi (SSID: Company-Guest) provides internet-only access.
+2. Access expires automatically after 24 hours.
+3. Guest network traffic is monitored for security threats.

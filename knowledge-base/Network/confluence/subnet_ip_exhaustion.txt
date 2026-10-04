@@ -1,0 +1,11 @@
+Title: DHCP Subnet IP Pool Exhaustion
+Source: Confluence
+Domain: Network
+Freshness: 0.8
+Authority: 0.88
+Reliability: 0.85
+Content:
+If device receives a 169.254.x.x APIPA IP address:
+1. Disconnect Ethernet and release IP: ipconfig /release.
+2. Network operations team must expand DHCP lease pool for Vlan 104.
+3. Re-enable network adapter to obtain fresh IP lease.

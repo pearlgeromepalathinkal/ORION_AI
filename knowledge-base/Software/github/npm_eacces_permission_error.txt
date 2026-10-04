@@ -1,0 +1,11 @@
+Title: Node npm Global Install EACCES Error
+Source: Github
+Domain: Software
+Freshness: 0.85
+Authority: 0.87
+Reliability: 0.84
+Content:
+Fixing npm install -g permission denied errors:
+1. Do NOT use sudo npm install -g.
+2. Reconfigure npm default directory: mkdir ~/.npm-global && npm config set prefix '~/.npm-global'
+3. Add export PATH=~/.npm-global/bin:$PATH to ~/.zshrc.

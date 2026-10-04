@@ -1,0 +1,11 @@
+Title: BitLocker Drive Encryption Recovery
+Source: Sharepoint
+Domain: Security
+Freshness: 0.94
+Authority: 0.97
+Reliability: 0.92
+Content:
+If laptop prompts for BitLocker recovery key at boot:
+1. User logs into https://myaccount.microsoft.com or contacts IT support.
+2. Support agent verifies employee ID and retrieves 48-digit recovery key.
+3. Enter key to unlock drive and run TPM diagnostic.

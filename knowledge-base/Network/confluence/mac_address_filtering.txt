@@ -1,0 +1,11 @@
+Title: MAC Address Bypass Registration
+Source: Confluence
+Domain: Network
+Freshness: 0.84
+Authority: 0.88
+Reliability: 0.85
+Content:
+For IoT or non-802.1X devices requiring network access:
+1. Submit device MAC address to Network MAC Authentication Bypass (MAB) portal.
+2. Assign device to Restricted Vlan 300.
+3. MAB approval completes within 2 hours.

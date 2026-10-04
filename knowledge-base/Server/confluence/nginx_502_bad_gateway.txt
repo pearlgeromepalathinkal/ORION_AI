@@ -1,0 +1,11 @@
+Title: Nginx 502 Bad Gateway Resolution
+Source: Confluence
+Domain: Server
+Freshness: 0.92
+Authority: 0.95
+Reliability: 0.9
+Content:
+Debugging Nginx 502 Bad Gateway errors:
+1. Check backend service status: systemctl status gunicorn / php-fpm / node.
+2. Inspect error log: tail -f /var/log/nginx/error.log.
+3. Verify backend socket or port 127.0.0.1:8080 is listening.

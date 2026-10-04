@@ -1,0 +1,11 @@
+Title: Network Printer Discovery Failure
+Source: Confluence
+Domain: Network
+Freshness: 0.81
+Authority: 0.84
+Reliability: 0.82
+Content:
+If network printers do not appear in print dialog:
+1. Ensure laptop is connected to Corporate Wi-Fi or VPN, not Guest Wi-Fi.
+2. Map printer directly using UNC path: \\printserver.corp\PrinterName.
+3. Restart Windows Print Spooler service.

@@ -1,0 +1,11 @@
+Title: IPv6 Migration and Coexistence Policy
+Source: Sharepoint
+Domain: Network
+Freshness: 0.83
+Authority: 0.87
+Reliability: 0.85
+Content:
+Dual-stack IPv4/IPv6 guidelines:
+1. New internal services must support IPv6 dual-stack.
+2. IPv6 prefix delegation managed via central IPAM.
+3. IPv6 router advertisements guarded via RA Guard on all access switches.

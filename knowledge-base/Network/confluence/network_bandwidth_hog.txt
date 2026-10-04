@@ -1,0 +1,11 @@
+Title: Excessive Network Bandwidth Utilization
+Source: Confluence
+Domain: Network
+Freshness: 0.82
+Authority: 0.85
+Reliability: 0.83
+Content:
+If network performance degrades suddenly on a switch port:
+1. Check NetFlow telemetry for IP heavy talkers.
+2. Apply rate-limiting QoS policy on interface.
+3. Notify user if P2P or streaming traffic violates Acceptable Use Policy.

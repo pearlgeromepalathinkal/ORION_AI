@@ -1,0 +1,11 @@
+Title: ZTNA Zero Trust Network Access Architecture
+Source: Sharepoint
+Domain: Network
+Freshness: 0.96
+Authority: 0.98
+Reliability: 0.95
+Content:
+Zero Trust access guidelines:
+1. Network location no longer grants automatic trust.
+2. Identity, device posture, and context evaluated per request.
+3. Micro-segmentation enforced at application layer.

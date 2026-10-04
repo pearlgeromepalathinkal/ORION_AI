@@ -1,0 +1,11 @@
+Title: Chrome Enterprise Extension Request
+Source: Github
+Domain: Software
+Freshness: 0.84
+Authority: 0.86
+Reliability: 0.83
+Content:
+If Chrome displays 'Extension blocked by administrator':
+1. Developer extensions must be approved by Software Governance Team.
+2. Submit Chrome Web Store extension URL via Jira Software request.
+3. Approved extensions pushed via Chrome Management Console within 4 hours.

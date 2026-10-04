@@ -1,0 +1,11 @@
+Title: Privileged Access Management PAM Request
+Source: Sharepoint
+Domain: Security
+Freshness: 0.93
+Authority: 0.96
+Reliability: 0.91
+Content:
+Temporary admin elevation process:
+1. Submit PAM request in CyberArk portal with valid ticket ID.
+2. Approval required from resource owner.
+3. Elevation active for maximum 4 hours with full session auditing.

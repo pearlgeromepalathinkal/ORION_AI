@@ -1,0 +1,11 @@
+Title: Slack Desktop App Hardware Acceleration Fix
+Source: Github
+Domain: Software
+Freshness: 0.84
+Authority: 0.86
+Reliability: 0.83
+Content:
+If Slack desktop client crashes or displays blank white window:
+1. Open Slack -> Help -> Troubleshooting -> Clear Cache and Restart.
+2. Disable Hardware Acceleration in Slack preferences if screen flickers.
+3. Alternatively use Slack web app.

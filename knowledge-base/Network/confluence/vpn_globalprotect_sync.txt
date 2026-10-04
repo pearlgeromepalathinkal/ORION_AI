@@ -1,0 +1,12 @@
+Title: GlobalProtect VPN Password Sync Guide
+Source: Confluence
+Domain: Network
+Freshness: 0.95
+Authority: 0.9
+Reliability: 0.88
+Content:
+To resolve GlobalProtect VPN authentication failure after an Active Directory password change:
+1. Open GlobalProtect client settings.
+2. Disconnect and refresh portal credentials.
+3. Enter your updated AD password and confirm MFA push on your phone.
+4. If connection fails, flush local DNS cache via ipconfig /flushdns (Windows) or sudo dscacheutil -flushcache (macOS).

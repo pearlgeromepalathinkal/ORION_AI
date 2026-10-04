@@ -1,0 +1,11 @@
+Title: AWS IAM Access Denied Troubleshooting
+Source: Confluence
+Domain: Cloud
+Freshness: 0.94
+Authority: 0.96
+Reliability: 0.92
+Content:
+Resolving AWS IAM Access Denied errors:
+1. Check IAM user/role policies attached in AWS Console.
+2. Verify Service Control Policies (SCP) are not blocking action at AWS Org level.
+3. Run AWS Policy Simulator to test permissions.

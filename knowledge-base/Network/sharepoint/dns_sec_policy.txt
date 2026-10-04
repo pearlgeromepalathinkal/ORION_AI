@@ -1,0 +1,11 @@
+Title: DNSSEC Domain Protection Guidelines
+Source: Sharepoint
+Domain: Network
+Freshness: 0.92
+Authority: 0.95
+Reliability: 0.91
+Content:
+DNS security standards:
+1. All external public domain zones must have DNSSEC enabled.
+2. Zone signing keys (ZSK) rotated every 90 days.
+3. Key signing keys (KSK) rotated annually.

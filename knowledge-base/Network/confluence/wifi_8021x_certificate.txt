@@ -1,0 +1,11 @@
+Title: Enterprise Wi-Fi Certificate Renewal
+Source: Confluence
+Domain: Network
+Freshness: 0.9
+Authority: 0.92
+Reliability: 0.85
+Content:
+If device disconnects from Corporate-Secure Wi-Fi:
+1. Forget 'Corporate-Secure' network in Network Settings.
+2. Reconnect and accept the updated RADIUS domain certificate.
+3. Authenticate using your domain credentials (user@company.com).

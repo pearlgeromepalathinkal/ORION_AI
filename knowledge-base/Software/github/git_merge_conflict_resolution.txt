@@ -1,0 +1,11 @@
+Title: Git Merge Conflict Best Practices
+Source: Github
+Domain: Software
+Freshness: 0.88
+Authority: 0.85
+Reliability: 0.87
+Content:
+Resolving git merge conflicts:
+1. Run git status to locate conflicted files.
+2. Open files in VS Code conflict editor and choose Accept Current / Incoming change.
+3. Stage resolved files: git add <file> and commit.

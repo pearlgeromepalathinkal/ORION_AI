@@ -1,0 +1,11 @@
+Title: Sublime Text Enterprise License Key
+Source: Github
+Domain: Software
+Freshness: 0.81
+Authority: 0.84
+Reliability: 0.82
+Content:
+Registering Sublime Text developer license:
+1. Help -> Enter License.
+2. Paste corporate license key block from Software Portal.
+3. License automatically saves to Local AppData.

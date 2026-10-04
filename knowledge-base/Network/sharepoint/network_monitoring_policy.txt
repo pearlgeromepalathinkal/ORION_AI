@@ -1,0 +1,11 @@
+Title: Network Traffic Monitoring and Logging
+Source: Sharepoint
+Domain: Network
+Freshness: 0.94
+Authority: 0.97
+Reliability: 0.93
+Content:
+Logging and telemetry retention policy:
+1. Firewall connection logs retained for 365 days in SIEM.
+2. NetFlow / IPFIX flow data retained for 90 days.
+3. Packet captures restricted to authorized security incident responders.

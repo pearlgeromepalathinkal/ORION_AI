@@ -1,0 +1,11 @@
+Title: EU Works Council Software Onboarding Compliance
+Source: Sharepoint
+Domain: EU-IT
+Freshness: 0.93
+Authority: 0.96
+Reliability: 0.91
+Content:
+Deploying new software tools in EU offices:
+1. Software tracking employee metrics requires Works Council (Betriebsrat) sign-off.
+2. Privacy Impact Assessment (PIA) must be filed.
+3. Keylogging or webcam monitoring features must be disabled globally.

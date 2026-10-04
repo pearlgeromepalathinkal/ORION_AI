@@ -1,0 +1,11 @@
+Title: Removable Media USB Storage Control
+Source: Sharepoint
+Domain: Security
+Freshness: 0.91
+Authority: 0.94
+Reliability: 0.89
+Content:
+USB storage device controls:
+1. Mass storage USB drives blocked by default via Group Policy / MDM.
+2. Read-only exception available for encrypted corporate USB drives.
+3. Write access requires CISO approval.

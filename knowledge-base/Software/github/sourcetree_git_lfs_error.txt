@@ -1,0 +1,11 @@
+Title: SourceTree Git LFS Storage Error
+Source: Github
+Domain: Software
+Freshness: 0.84
+Authority: 0.87
+Reliability: 0.84
+Content:
+If SourceTree fails to pull large binary files:
+1. Tools -> Options -> Git -> Enable Git LFS.
+2. Run terminal command: git lfs install.
+3. Run git lfs pull.

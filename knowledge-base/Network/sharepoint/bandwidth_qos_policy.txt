@@ -1,0 +1,11 @@
+Title: Quality of Service QoS Bandwidth Allocation
+Source: Sharepoint
+Domain: Network
+Freshness: 0.88
+Authority: 0.91
+Reliability: 0.89
+Content:
+QoS traffic prioritization rules:
+1. Voice (VoIP) and Video (Teams) assigned highest priority (EF / AF41).
+2. Business critical data assigned medium priority (AF21).
+3. General web browsing and file transfers assigned Best Effort.

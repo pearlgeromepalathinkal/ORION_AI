@@ -1,0 +1,11 @@
+Title: US Healthcare HIPAA Data Access Audit Standard
+Source: Sharepoint
+Domain: US-IT
+Freshness: 0.97
+Authority: 0.99
+Reliability: 0.95
+Content:
+Enforcing HIPAA security compliance:
+1. All systems storing Protected Health Information (PHI) must encrypt data at rest (AES-256).
+2. User access logs retained for minimum 6 years.
+3. Inactive sessions lock automatically after 15 minutes.
